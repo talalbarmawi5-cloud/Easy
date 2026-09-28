@@ -1,0 +1,15 @@
+/Users/talal/Desktop/Offically New/bin/Debug/net10.0/Offically New
+/Users/talal/Desktop/Offically New/bin/Debug/net10.0/Offically New.deps.json
+/Users/talal/Desktop/Offically New/bin/Debug/net10.0/Offically New.runtimeconfig.json
+/Users/talal/Desktop/Offically New/bin/Debug/net10.0/Offically New.dll
+/Users/talal/Desktop/Offically New/bin/Debug/net10.0/Offically New.pdb
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/Offically New.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/Offically New.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/Offically New.AssemblyInfo.cs
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/Offically New.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/Offically New.sourcelink.json
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/Offically New.dll
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/refint/Offically New.dll
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/Offically New.pdb
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/Offically New.genruntimeconfig.cache
+/Users/talal/Desktop/Offically New/obj/Debug/net10.0/ref/Offically New.dll
